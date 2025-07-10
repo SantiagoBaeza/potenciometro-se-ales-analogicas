@@ -9,7 +9,8 @@ Fue realizado y probado con éxito en [Tinkercad](https://www.tinkercad.com/), y
 
 ## 📷 Captura del circuito en Tinkercad
 
-![Circuito en Tinkercad](ruta/a/tu/imagen.png)  
+![Circuito en Tinkercad](![image](https://github.com/user-attachments/assets/af6b4c18-59f8-45e7-90ee-0fbfb0739182)
+)  
 > *(Implementar captura del circuito simulado)*
 
 ---
@@ -45,7 +46,7 @@ Para calcular los niveles se aplicó una regla de tres simple que mapea el valor
 Se desarrolló un primer código funcional, que establece condiciones para cada rango de lectura.  
 El objetivo fue **asentar la lógica básica** y empezar a practicar con estructuras `if(...) && (...)`.
 
-📄 [Ver código inicial](ruta/a/codigo_1.ino)
+📄 [Ver código inicial](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/potenciometro_1.ino)
 
 ---
 
