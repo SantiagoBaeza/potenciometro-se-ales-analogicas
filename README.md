@@ -3,7 +3,7 @@
 Este proyecto, aunque sencillo, es una excelente introducción al mundo de los valores analógicos y la conversión PWM en Arduino.  
 Permite visualizar de forma clara cómo una lectura analógica puede traducirse en una variación de brillo en un LED, simulando una luz regulable mediante potenciómetro.
 
-Fue realizado y probado con éxito en [Tinkercad](https://www.tinkercad.com/), y más tarde replicado en hardware físico.
+Fue realizado y probado con éxito en [Tinkercad (ver simulacion)](https://www.tinkercad.com/things/cJbwEY6QBbl-potenciometro-), y más tarde replicado en hardware físico.
 
 ---
 
@@ -53,7 +53,7 @@ El objetivo fue **asentar la lógica básica** y empezar a practicar con estruct
 En esta versión, el código fue optimizado tanto en **legibilidad** como en **eficiencia lógica**.  
 Se utilizó estructura `if / else if` para evitar múltiples evaluaciones redundantes y se dejó listo para futuros refinamientos.
 
-📄 [Ver código optimizado](ruta/a/codigo_2.ino)
+📄 [Ver código optimizado](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/potenciometro_2.ino)
 
 > 🔍 También se puede considerar en futuras versiones el uso de `map()` para una transición progresiva y continua del brillo.
 
