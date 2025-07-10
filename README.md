@@ -64,7 +64,7 @@ Se utilizó estructura `if / else if` para evitar múltiples evaluaciones redund
 Una vez validado el comportamiento en simulador, se replicó el circuito en hardware real.  
 A continuación, se puede ver un gif del funcionamiento del circuito con una placa Arduino UNO:
 
-🎞️ [Ver demostración en la vida real](ruta/a/gif_o_video.mp4)
+🎞️ [Ver demostración en la vida real](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/funcionamiento.gif)
 
 ---
 
