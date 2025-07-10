@@ -9,9 +9,7 @@ Fue realizado y probado con éxito en [Tinkercad](https://www.tinkercad.com/), y
 
 ## 📷 Captura del circuito en Tinkercad
 
-![Circuito en Tinkercad](![image](https://github.com/user-attachments/assets/af6b4c18-59f8-45e7-90ee-0fbfb0739182)
-)  
-> *(Implementar captura del circuito simulado)*
+![Circuito en Tinkercad](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/01%20.jpg)  
 
 ---
 
