@@ -1,4 +1,5 @@
-# 💡 Control de Brillo de LED con Potenciómetro – Arduino UNO
+[⬅️ Volver a "Arduino"](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
+# Control de Brillo de LED con Potenciómetro – Arduino UNO
 
 Este proyecto, aunque sencillo, es una excelente introducción al mundo de los valores analógicos y la conversión PWM en Arduino.  
 Permite visualizar de forma clara cómo una lectura analógica puede traducirse en una variación de brillo en un LED, simulando una luz regulable mediante potenciómetro.
@@ -7,13 +8,13 @@ Fue realizado y probado con éxito en [Tinkercad (ver simulacion)](https://www.t
 
 ---
 
-## 📷 Captura del circuito en Tinkercad
+## Captura del circuito en Tinkercad
 
 ![Circuito en Tinkercad](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/01%20.jpg)  
 
 ---
 
-## ⚙️ Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Simular una **luz con brillo variable** en función del valor entregado por un potenciómetro.  
 Se utilizó una lógica por tramos, dividiendo la escala del ADC (0–1023) en cinco niveles de intensidad:
@@ -28,7 +29,7 @@ Se utilizó una lógica por tramos, dividiendo la escala del ADC (0–1023) en c
 
 ---
 
-## 🧠 Proceso de Desarrollo
+## Proceso de Desarrollo
 
 ### 🔸 Paso 1: Lógica del circuito
 
@@ -64,11 +65,11 @@ Se utilizó estructura `if / else if` para evitar múltiples evaluaciones redund
 Una vez validado el comportamiento en simulador, se replicó el circuito en hardware real.  
 A continuación, se puede ver un gif del funcionamiento del circuito con una placa Arduino UNO:
 
-🎞️ [Ver demostración en la vida real](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/funcionamiento.gif)
+🎞️ [Ver demostración real](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas/blob/main/funcionamiento.gif)
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Arduino Uno
 - IDE Arduino
